@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151061609101",
+    "project_id": "javaprojekti-bfc38",
+    "storage_bucket": "javaprojekti-bfc38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151061609101:android:fe56d9bcdeb30f1a4a80c4",
+        "android_client_info": {
+          "package_name": "com.example.javaprojekti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3aVEV6xEMDUxfiyEIDy3w2KM43F7MjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
